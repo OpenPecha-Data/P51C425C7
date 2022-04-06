@@ -1,0 +1,100 @@
+id: 7181c4d9d02549a2a14f9cd027d488b2
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  a5bbb1e84f754777824ad079188b8694:
+    span:
+      start: 3050
+      end: 4447
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP153FD6CFC25226AB
+  cc381b33632a4e09b15745b40e7303a2:
+    span:
+      start: 0
+      end: 50
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP91ACEA02FF04DFED
+  cb25b4105646489e8893960886267cc1:
+    span:
+      start: 8856
+      end: 10287
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP980894AB9EB054D8
+  041774407e36424e9b3a9ba9be538bf3:
+    span:
+      start: 5844
+      end: 7262
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP434B68914D56F3E4
+  a513a9ff10cc481aa0ea15de85c256b2:
+    span:
+      start: 11769
+      end: 12127
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPA8A5E4EA1D500669
+  b2948d71065e4e2ebaecfa5269eb1f5b:
+    span:
+      start: 13566
+      end: 14775
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EPF4EB9F1EB2F139D2
+  4e4df14a3b734f9c946d51a952c42c98:
+    span:
+      start: 1494
+      end: 3048
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP8169E56A0461C578
+  ebe519b6d2aa43809db9e64a1962da52:
+    span:
+      start: 4449
+      end: 5842
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPB7FED6CB36FC04CD
+  a73d748af1a244f9a0ab27c285f96cff:
+    span:
+      start: 12129
+      end: 13564
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP268955143DFFBA72
+  245a482320874208843a0770e0ac7984:
+    span:
+      start: 52
+      end: 1492
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPCE5F6A50790E4AC6
+  6bb60d141ea640c28b279c63b02519e2:
+    span:
+      start: 7264
+      end: 8854
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EPFACB3093217ECFAC
+  bf9cc1df85494f45bf459c27a13168b9:
+    span:
+      start: 10289
+      end: 11767
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP3DC0DD780D5851FD

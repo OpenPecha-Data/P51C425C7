@@ -1,0 +1,44 @@
+id: 791f39531b3b4f8ab15268b956085044
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  2c6f9303cad84fcfb9b1c9373b948a0e:
+    span:
+      start: 37
+      end: 1461
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP93BC7159523A68EA
+  222f9c893dd646eeb347aa50658d7a32:
+    span:
+      start: 0
+      end: 35
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP1233909AB40B8877
+  dc891ff0d63348108b2d93c47d7cd73b:
+    span:
+      start: 2884
+      end: 4285
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP4BF3FE1D61044035
+  2911c870fe984ddbbb89c1656b92aa3c:
+    span:
+      start: 1463
+      end: 2882
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP4DC429D81545E996
+  67ee3e507cc7406196c1783ec0f78596:
+    span:
+      start: 4287
+      end: 4856
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPA8866F14B308E7BC

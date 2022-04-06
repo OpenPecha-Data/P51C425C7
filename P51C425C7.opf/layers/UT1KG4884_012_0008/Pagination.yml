@@ -1,0 +1,100 @@
+id: 37a656502e5e4796bf9f8b0ee94d8114
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  bc7bf0953efa4fadb3845123e1090238:
+    span:
+      start: 1481
+      end: 2909
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP9630ACC30CD12B33
+  535ac2b41f394828937385dfea31ac81:
+    span:
+      start: 5837
+      end: 7263
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EP232E88D4FD4FCB59
+  989f54559d23483893561d8a057e7a6b:
+    span:
+      start: 4369
+      end: 5835
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP3EDBD293F3094A85
+  b7d7486a87eb4bf9aada7a2b8fad394f:
+    span:
+      start: 0
+      end: 43
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EPAD7BCC75E9FAE03B
+  aa17dd03e1d64d079a930d037ebec4aa:
+    span:
+      start: 7265
+      end: 8707
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP9D78C1A0E8D0B296
+  22536d006a764f11bd744ac7066bc86d:
+    span:
+      start: 13044
+      end: 13509
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EPDAAA532485B5ABE3
+  3ca1ad6ff1ea41f18131a0bb01672ac4:
+    span:
+      start: 11583
+      end: 13042
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP11DC4E85FF45FC4F
+  86dad9612b8044e3bfa99cac999dff1d:
+    span:
+      start: 8709
+      end: 10148
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP4453B2C1CBAD1EF4
+  7570eef989ed4ebe9d76f77c5b2c01b1:
+    span:
+      start: 45
+      end: 1479
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EPDDF15BC908FC6C6F
+  c63db9177b434d28b83f9d942eccc5e5:
+    span:
+      start: 2911
+      end: 4367
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP94E97D9F29AB4948
+  b42693c7206848eeb332a589839a5494:
+    span:
+      start: 13511
+      end: 14200
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP1F8743C4B71374B5
+  51c6d073af2743c38d5390618460a3b3:
+    span:
+      start: 10150
+      end: 11581
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP30646D59CDF9A24D

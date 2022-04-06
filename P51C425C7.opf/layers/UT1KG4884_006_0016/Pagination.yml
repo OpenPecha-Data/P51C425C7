@@ -1,0 +1,100 @@
+id: 901e2df9029c470f9c59ffb93992a164
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  944e09202fd44f8d9975acd473865b87:
+    span:
+      start: 10185
+      end: 11788
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EPF59F741C4429B54C
+  3dbfb231ef2d419e8aa3ec66ab71882f:
+    span:
+      start: 7245
+      end: 8764
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP447611E8D1549E2F
+  aebb135a8bd0488bb4af8ef0bc44a702:
+    span:
+      start: 49
+      end: 1481
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP6D9C40E2CBC2C9F6
+  6bc6d13355674747b13821e5fb0b507e:
+    span:
+      start: 13763
+      end: 14256
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EP2DAD5951246EBA2C
+  d4b25cafe05f4ec6ada9786f0f5af598:
+    span:
+      start: 5759
+      end: 7243
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPEC7C15EE5096303F
+  b414931a1cba48aca1a19be9d8e03456:
+    span:
+      start: 12319
+      end: 13761
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP1F3455FE35E9DD22
+  03c182a7e90a4285bc62d90d11132198:
+    span:
+      start: 11790
+      end: 12317
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EPD9DB396595EE4551
+  4679e49af8c24373a447d3c62e6083b5:
+    span:
+      start: 1483
+      end: 2891
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EP5171C6BB56E174DD
+  10113f98071b424d8ac59a7d5f48b68e:
+    span:
+      start: 8766
+      end: 10183
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EPB89BD4B0BB32F082
+  daf85961f90b4401a712fd4047f3c54d:
+    span:
+      start: 0
+      end: 47
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP10D8B7BE7935906E
+  50e88a47204742a19706f2b0efe061f1:
+    span:
+      start: 2893
+      end: 4323
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EP82B187F48B0B213C
+  58c738d6542c4bf188ad0552b72bb2ab:
+    span:
+      start: 4325
+      end: 5757
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EP2E852C276D60C463

@@ -1,0 +1,100 @@
+id: def7ae096dce4d13aacd268b62674c10
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  c1d5c123a5354eea9935e31c4f67294b:
+    span:
+      start: 11452
+      end: 12874
+    metadata: {}
+    page_info: null
+    imgnum: 10
+    reference: EP9ED2B54806960F58
+  1aec1a0738aa4134b306b73874b20f1b:
+    span:
+      start: 14306
+      end: 15419
+    metadata: {}
+    page_info: null
+    imgnum: 12
+    reference: EPA2F36C23DE10D3B0
+  0dee406de7874eba861460a9bbe33dbd:
+    span:
+      start: 2940
+      end: 4371
+    metadata: {}
+    page_info: null
+    imgnum: 4
+    reference: EPC8011A7810D2E337
+  110dd8b061d44330b8383244b7643654:
+    span:
+      start: 10286
+      end: 11450
+    metadata: {}
+    page_info: null
+    imgnum: 9
+    reference: EP92E027C2AC49A44D
+  f1abc598fed3468c819739c149fbf36a:
+    span:
+      start: 7342
+      end: 8829
+    metadata: {}
+    page_info: null
+    imgnum: 7
+    reference: EP5B05977ED7CE98DC
+  96fdc68524ac4033831fe9bc72fe67fe:
+    span:
+      start: 4373
+      end: 5811
+    metadata: {}
+    page_info: null
+    imgnum: 5
+    reference: EPA93B48F3D94559F6
+  bb7b491772c9460482cea4c0e56c6624:
+    span:
+      start: 1515
+      end: 2938
+    metadata: {}
+    page_info: null
+    imgnum: 3
+    reference: EPD07AAD0729FB03DC
+  54941a089adc40e0a068a10c2c3bc2e8:
+    span:
+      start: 0
+      end: 30
+    metadata: {}
+    page_info: null
+    imgnum: 1
+    reference: EP16AE3B5973AC0E64
+  fa64c0161a2e4fc8a76909feccc04226:
+    span:
+      start: 8831
+      end: 10284
+    metadata: {}
+    page_info: null
+    imgnum: 8
+    reference: EP4A65378633D1C439
+  d8946683980043569a2e12337b396fca:
+    span:
+      start: 32
+      end: 1513
+    metadata: {}
+    page_info: null
+    imgnum: 2
+    reference: EP311836D2880B0D15
+  13fa99321dc34584b53b1eed8b415550:
+    span:
+      start: 5813
+      end: 7340
+    metadata: {}
+    page_info: null
+    imgnum: 6
+    reference: EPED642A93F6B84CEC
+  ee22009b7962499eb84b0671cd57c532:
+    span:
+      start: 12876
+      end: 14304
+    metadata: {}
+    page_info: null
+    imgnum: 11
+    reference: EP4C28AB6C454082C3
